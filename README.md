@@ -19,6 +19,13 @@ Wir schaffen einzigartige Dufterlebnisse, die Räume transformieren und Emotione
 
 In diesem Bereich finden Sie öffentlich zugängliche Ressourcen und Dokumente:
 
+### Apps
+- Android
+- IOS
+
+### Firmware Updates
+- Coming soon...
+  
 ### Produktkataloge
 - Coming soon...
 
