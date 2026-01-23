@@ -36,22 +36,22 @@ In diesem Bereich finden Sie öffentlich zugängliche Ressourcen und Dokumente:
 Besuchen Sie unseren YouTube-Kanal für hilfreiche Videos und Tutorials:
 
 ### Produktvorstellungen
-- [Airscent Produktübersicht](https://youtube.com) - Coming soon
-- [Installation und Einrichtung](https://youtube.com) - Coming soon
+- Airscent Produktübersicht - *Coming soon*
+- Installation und Einrichtung - *Coming soon*
 
 ### Tutorials
-- [Wartung und Pflege](https://youtube.com) - Coming soon
-- [Tipps und Tricks](https://youtube.com) - Coming soon
+- Wartung und Pflege - *Coming soon*
+- Tipps und Tricks - *Coming soon*
 
 ### Unternehmensvideos
-- [Über Airscent](https://youtube.com) - Coming soon
-- [Nachhaltigkeit bei Airscent](https://youtube.com) - Coming soon
+- Über Airscent - *Coming soon*
+- Nachhaltigkeit bei Airscent - *Coming soon*
 
 ## 📞 Kontakt
 
 - **Website**: [airscent.de](https://airscent.de)
 - **E-Mail**: info@airscent.de
-- **YouTube**: [Airscent YouTube Kanal](https://youtube.com)
+- **YouTube**: *Coming soon*
 
 ## 📄 Lizenz
 
